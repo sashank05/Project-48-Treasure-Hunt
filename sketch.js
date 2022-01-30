@@ -55,7 +55,7 @@ function setup() {
   restart.addImage(restartImg);
   
   jack.setCollider("circle",-10,100,50);
-  jack.debug =true;
+  //jack.debug =true;
   score = 0;
 }
 
